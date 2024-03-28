@@ -25,4 +25,7 @@ if __name__ == '__main__':
     # adding new item in master branch
     print_hi('Hello World 5')
 
+    # Updates in local master branch
+    print_hi('Hello World Updates on Local Master Branch')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
