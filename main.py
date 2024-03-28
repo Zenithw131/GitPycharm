@@ -16,4 +16,8 @@ if __name__ == '__main__':
     #adding new item in hotfix
     print_hi('Hello World 2')
 
+    # adding new item in master branch
+    print_hi('Hello World 3')
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
